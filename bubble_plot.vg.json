@@ -6,7 +6,7 @@
     "text": "Distribution of Gross Domestic Product (GDP), Population, and Land Area by Country and Continent (2022)"
   },
   "data": {
-    "url": "./Countries.csv"
+    "url": "https://raw.githubusercontent.com/ykhaiwei/AS03_H4_YeeKhaiWei_32846398/refs/heads/main/Countries.csv"
   },
   "params": [
     {
